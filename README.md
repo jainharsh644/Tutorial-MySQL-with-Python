@@ -6,14 +6,15 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
 
 
-## SQL Operations performed using Python:
-
-#### 1. Python Connection
-#### 2. Check for databases
-#### 3. Create Database
-#### 4. Create Table
-#### 5. Insert Data
-#### 6. Retrieve Data
-#### 7. Updata Data
-#### 8. Delete Data
-#### 9. All in One 
+# SQL Operations performed using Python:
+<ul>
+<li>Python Connection</li>
+<li>Check for databases</li>
+<li>Create Database</li>
+<li>Create Table</li>
+<li>Insert Data</li>
+<li>Retrieve Data</li>
+<li>Updata Data</li>
+<li>Delete Data</li>
+<li>All in One </li>
+</ul>
