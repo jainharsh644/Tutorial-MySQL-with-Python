@@ -18,3 +18,5 @@
 <li>Delete Data</li>
 <li>All in One </li>
 </ul>
+
+# Please do ⭐ the repository, if it helped you in anyway.
